@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '6118'
     url: http://www.gutenberg.org/2009/agents/6118
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36010#Ethel-Morton-at-Chautauqua
 gutenberg_issued: '2011-05-02'
 gutenberg_type: Text
 identifiers:
